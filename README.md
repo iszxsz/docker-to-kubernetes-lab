@@ -1,6 +1,6 @@
 # Docker to Kubernetes Lab
 
-Este repositório documenta meu processo de aprendizado prático sobre containers e orquestração, começando pelos fundame>
+Este repositório documenta meu processo de aprendizado prático sobre containers e orquestração, começando pelos fundamentos
 
 ## Objetivos
 
@@ -20,4 +20,4 @@ Este repositório documenta meu processo de aprendizado prático sobre container
 
 ```text
 01-docker-static-site/   → Fundamentos de Docker com site estático
-02-...                   → Próximos passos (em construção)
+02-...                   → (em construção)
